@@ -18,7 +18,8 @@ Opens at http://localhost:3000
 Start the Python FastAPI backend first:
 
 ```bash
-cd  AI-Driven-Resident-Insights-Backend-main
+#run command on backend 
+(cd  AI-Driven-Resident-Insights-Backend-main)
 python -m uvicorn backend_main:app --reload
 ```
 
