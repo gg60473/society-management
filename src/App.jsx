@@ -102,7 +102,7 @@ export default function App() {
 
         <div className="sidebar-footer">
           <div style={{ fontWeight: 600, fontSize: 12, marginBottom: 2 }}>Society Admin Panel</div>
-          <div style={{ fontSize: 10, color: 'var(--faint)' }}>v2.0 · API: localhost:8000</div>
+          <div style={{ fontSize: 10, color: 'var(--faint)' }}>v2.0 · API: https://your-render-url.onrender.com</div>
         </div>
       </aside>
 
