@@ -2,7 +2,7 @@
 
 React frontend for the Society Management System.
 
-Backend 🔗👉🏼https://github.com/Iamit-kumarI/AI-Driven-Resident-Insights-Backend
+Backend 🔗👉🏼https://github.com/gg60473/AI-Driven-Resident-Insights-Backend
 ## Setup
 
 ```bash
