@@ -101,11 +101,11 @@ export default function App() {
         </nav>
 
         <div className="sidebar-footer">
-          <div style={{ fontWeight: 600, fontSize: 12, marginBottom: 2 }}>Society Admin Panel</div>
+          <div style={{ fontWeight: 600, fontSize: 12, marginBottom: 2 }}>Society Admin Panel Test </div>
           <div style={{ fontSize: 10, color: 'var(--faint)' }}>v2.0 · API: https://your-render-url.onrender.com</div>
         </div>
       </aside>
-
+       
       {/* Main Content */}
       <main className="main">
         {PAGES[page] || <Dashboard setPage={setPage} />}
