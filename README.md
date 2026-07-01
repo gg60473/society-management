@@ -18,8 +18,8 @@ Opens at http://localhost:3000
 Start the Python FastAPI backend first:
 
 ```bash
-pip install fastapi uvicorn python-multipart
-uvicorn main:app --reload
+cd  AI-Driven-Resident-Insights-Backend-main
+python -m uvicorn backend_main:app --reload
 ```
 
 Backend runs at http://localhost:8000
