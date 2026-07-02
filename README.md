@@ -9,7 +9,7 @@ https://societymanag.netlify.app/
 React frontend for the Society Management System.
 
 Backend 🔗👉🏼https://github.com/gg60473/AI-Driven-Resident-Insights-Backend
-## Setup
+## Frontend  Setup
 
 ```bash
 cd society-frontend
@@ -17,7 +17,7 @@ npm install
 npm start
 ```
 
-Opens at http://localhost:3000
+Opens at https://societymanag.netlify.app/
 
 ## Backend Required
 
@@ -29,7 +29,7 @@ Start the Python FastAPI backend first:
 python -m uvicorn backend_main:app --reload
 ```
 
-Backend runs at http://localhost:8000
+Backend runs at https://ai-driven-resident-insights-backend.onrender.com/
 API docs at http://localhost:8000/docs
 
 ## Pages
