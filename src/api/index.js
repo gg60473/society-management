@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE = 'http://localhost:8000';
+const BASE = 'https://ai-driven-resident-insights-backend.onrender.com';
 
 const api = axios.create({ baseURL: BASE });
 
