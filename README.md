@@ -1,3 +1,9 @@
+#deploy Link
+https://societymanag.netlify.app/
+
+
+
+
 # SocietyOS — Society Management Frontend
 
 React frontend for the Society Management System.
